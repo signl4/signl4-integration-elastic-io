@@ -35,7 +35,7 @@ Alles, was für die Verknüpfung von elastic.io mit SIGNL4 nötig ist, ist eine 
 
 ## Und so funktioniert es
 
-### Integration von SIGNL4 mit der MuleSoft Anypoint Platform
+### Integration von SIGNL4 mit elastic.io
 
 In unserem Beispiel werden wir eine CSV-Datei von einem Web-Server lesen und die Daten als Warnung an unser SIGNL4-Team senden.
 
