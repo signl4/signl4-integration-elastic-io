@@ -35,7 +35,7 @@ All it takes to pair elastic.io and SIGNL4 is a REST API action in your elastic.
 
 ## How To Integrate
 
-### Integrating SIGNL4 with the MuleSoft Anypoint Platform
+### Integrating SIGNL4 with elastic.io
 
 In our example we will read a .csv file from a web server and send the data as an alert to our SIGNL4 team.
 
