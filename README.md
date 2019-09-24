@@ -6,7 +6,7 @@ Mobile alerting with tracking, duty planning and escalation for elastic.io.
 
 elastic.io is a hybrid integration platform that comes with a rich library of pre-built connectors for mainstream business applications. It can reduce your own integration efforts significantly. Pairing this powerful platform with SIGNL4 can enhance your daily operations with an extension to your team wherever it is.
 
-![SIGNL4](mulesoft-signl4.png)
+![SIGNL4](elastic-io-signl4.png)
 
 ## How it Works
 
